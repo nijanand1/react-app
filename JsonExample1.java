@@ -54,7 +54,7 @@ public class JsonExample1
         // writing JSON to file:"JSONExample.json" in cwd 
         
         System.out.println(jo.toJSONString());
-        
+        System.out.println(jo.toJSONString());
         
         
 	
